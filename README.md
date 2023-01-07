@@ -1,4 +1,4 @@
-# Creation of a photo gallery
+# Photo gallery
 
 The project was developed from a class on the [Hora de Codar](https://www.youtube.com/@MatheusBattisti) channel. Its main goal is to start studying SASS (CSS extension, used to add special features to the stylesheet).
 
