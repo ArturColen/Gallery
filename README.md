@@ -7,9 +7,9 @@ The project was developed from a class on the [Hora de Codar](https://www.youtub
 Simulate the home page of a photo gallery, where there is the display of various styles of photos.
 
 ## 💻 Technologies used 
-* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML): Page structuring, accessibility and semantics
-* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS): Page styling and responsiveness
-* [SASS](https://sass-lang.com/documentation/): Create the CSS file, adding resources to it
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML): page structuring, accessibility and semantics
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS): page styling and responsiveness
+* [SASS](https://sass-lang.com/documentation/): create the CSS file, adding resources to it
 
 ## 📁 Project access
 You can view the hosted page by clicking [here](https://arturcolen.github.io/Gallery/).
