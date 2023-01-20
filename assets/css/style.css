@@ -1,3 +1,4 @@
+/* === Generic Styles === */
 * {
   margin: 0;
   padding: 0;
@@ -18,6 +19,7 @@ body ul {
   list-style: none;
 }
 
+/* === Header === */
 #header {
   display: flex;
   justify-content: space-between;
@@ -74,6 +76,7 @@ body ul {
   color: #fff;
 }
 
+/* === Gallery === */
 .gallery {
   display: flex;
   align-items: center;
@@ -241,6 +244,7 @@ body ul {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/meals.jpg");
 }
 
+/* === Footer === */ 
 footer {
   text-align: center;
   padding-bottom: 2rem;
