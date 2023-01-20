@@ -1,7 +1,7 @@
 @use 'variables'
 @use 'mixins'
 
-// Generic Styles
+/* === Generic Styles === */
 *
     margin: 0
     padding: 0
@@ -20,7 +20,7 @@ body
     ul 
         list-style: none
 
-// Header 
+/* === Header === */ 
 #header
     display: flex
     justify-content: space-between
@@ -68,7 +68,7 @@ body
                     &:hover
                         color: variables.$primary-color 
 
-// Gallery
+/* === Gallery === */
 .gallery
     @include mixins.flex-center
     @include mixins.container 
@@ -135,7 +135,7 @@ body
     #card-9
         @include mixins.bg-img('meals.jpg')
 
-// Footer 
+/* === Footer === */
 footer
     text-align: center
     padding-bottom: 2rem 
